@@ -24,6 +24,7 @@ void ButtonState::ToggleState(bool pressed)
 		{
 			m_isPressed = !m_isPressed; // Toggle state
 			m_wasReleased = false; // Toggle released to off
+			//test test test test
 		}
 	}
 	else // If the button is up
